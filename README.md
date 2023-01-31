@@ -1,1 +1,1 @@
-# tabs-manager-extension
+# chrome-extensions-example-projects
