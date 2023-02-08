@@ -1,6 +1,6 @@
 # Chrome Extensions Example Projects
 
-Just a examples extension projects to learn how to build chrome extensions with the documentation guide ([Chrome dev docs](https://developer.chrome.com/docs/extensions/mv3/getstarted/)).
+Just some examples extension projects to learn how to build chrome extensions with the documentation guide ([Chrome dev docs](https://developer.chrome.com/docs/extensions/mv3/getstarted/)).
 
 ### 😁 Extension projects
 - [Reading Time](./reading-time-extension/)
